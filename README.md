@@ -1,4 +1,4 @@
-Nauczyciel akademicki, adiunkt w Katedrze Analizy Zespolonej Wydziału Matematyki i Informatyki Uniwersytetu Warmińsko-Mazurskiego w Olsztynue
+Nauczyciel akademicki, adiunkt w Instytucie Matematyki Wydziału Matematyki i Informatyki Uniwersytetu Warmińsko-Mazurskiego w Olsztynue
 
 Konsultacje w semestrze zimowym 2024/25:
 * wtorki 8:30-10:00, p. A2/14, Słoneczna 54.
