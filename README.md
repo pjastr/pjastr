@@ -1,4 +1,7 @@
-Nauczyciel akademicki, adiunkt w Instytucie Matematyki Wydziału Matematyki i Informatyki Uniwersytetu Warmińsko-Mazurskiego w Olsztynue
+Nauczyciel akademicki, adiunkt w Instytucie Matematyki Wydziału Matematyki i Informatyki Uniwersytetu Warmińsko-Mazurskiego w Olsztynie
 
-Konsultacje w semestrze letnim 2024/25
-* czwartek 13:15-14:45, p. A2/14.
+Konsultacje w semestrze zimowym:
+
+* konsultacje stacjonarne: czwartki 14:45-16:15, A2/14
+* zespół do konsultacji zdalnych: gyw89ke (MS Teams dla UWM)
+* istnieje możliwość umówienie się na konsultacje zarówno w formie stacjonarnej i zdalnej (tekstowo lub audio) o innej porze.
